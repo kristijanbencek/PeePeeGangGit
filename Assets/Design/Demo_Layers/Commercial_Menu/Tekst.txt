@@ -1,0 +1,37 @@
+Postavio sam malo drugačije dizajn pa vidite ako vam se sviđa:
+(ne mora ostati tako ako se ne slažete svi sa time):
+
+1. Kada krene animacija pranja ruku Playera radimo podjelu ekrana na  djela
+ - donji dio je gdje će se vrtiti reklama ( to može biti i cijeli black screen sa timerom)
+ - gornji dio je animirani gdje bi mogli izmjenjivati random kratke animacije unutar oblačića;
+   pranje ruku/ lice playera/ pojavi se duh iza njega/ i sl.
+ - u istom oblačiću možemo staviti i kako lik priča kratke priče ( ''jednom nisam oprao ruke poslije
+   wc-a pa sam dobio neku kožnu boleštinu i izgledao sam poput zombija'' ili neka random priča ili vic) 
+-  napravila bi se i animacija pranja ruku lika s leđa (4f) i stavili bi pixel particle mjehurića
+-  na taj način možemo zadržati igrača da prođe kroz reklamu a da se ne dosađuje i može birati koji dio screena
+   želi gledati
+
+
+
+Redoslijed Layera:
+
+CT (commercial time) 
+
+CT MENU:
+
+1. Commercial
+2. CT_Display
+3. CT_Bar
+4. Display (in game)
+5. CT_Background
+
+
+BUBBLE HANDWASH:
+1. Hand_Front
+2. Bubbles
+3. Pipe 
+4. Water
+5. Soap
+6. Hand_Back
+7. Talk_Bubble
+

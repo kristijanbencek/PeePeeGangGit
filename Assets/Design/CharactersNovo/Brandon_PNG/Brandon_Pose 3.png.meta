@@ -1,0 +1,783 @@
+fileFormatVersion: 2
+guid: 18e7222a6fadafb4f8abc8c037d9e593
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5233580513769387214
+    second: Brandon_Pose 3_0
+  - first:
+      213: -3842334863622495710
+    second: Brandon_Pose 3_1
+  - first:
+      213: -6886556978152261936
+    second: Brandon_Pose 3_2
+  - first:
+      213: 7524855661365472767
+    second: Brandon_Pose 3_3
+  - first:
+      213: -522175821602941146
+    second: Brandon_Pose 3_4
+  - first:
+      213: 2969314123964679355
+    second: Brandon_Pose 3_5
+  - first:
+      213: 625089216449987488
+    second: Brandon_Pose 3_6
+  - first:
+      213: 3782025203960884754
+    second: Brandon_Pose 3_7
+  - first:
+      213: 500846249057573333
+    second: Brandon_Pose 3_8
+  - first:
+      213: 4854561007716082723
+    second: Brandon_Pose 3_9
+  - first:
+      213: 2001134172402950898
+    second: Brandon_Pose 3_10
+  - first:
+      213: -9208376895947123062
+    second: Brandon_Pose 3_11
+  - first:
+      213: -3772695312998776771
+    second: Brandon_Pose 3_12
+  - first:
+      213: 5149598449419586236
+    second: Brandon_Pose 3_13
+  - first:
+      213: 5617378817045227182
+    second: Brandon_Pose 3_14
+  - first:
+      213: 8766896782465938400
+    second: Brandon_Pose 3_15
+  - first:
+      213: 6199595907073817452
+    second: Brandon_Pose 3_16
+  - first:
+      213: -3234239073995015392
+    second: Brandon_Pose 3_17
+  - first:
+      213: 4131292935343149437
+    second: Brandon_Pose 3_18
+  - first:
+      213: -5552221903314834532
+    second: Brandon_Pose 3_19
+  - first:
+      213: 1308010085409634357
+    second: Brandon_Pose 3_20
+  - first:
+      213: -7951962339704239588
+    second: Brandon_Pose 3_21
+  - first:
+      213: 5678338599579612905
+    second: Brandon_Pose 3_22
+  - first:
+      213: -4565033333662183281
+    second: Brandon_Pose 3_23
+  - first:
+      213: 8227755854006106121
+    second: Brandon_Pose 3_24
+  - first:
+      213: -6409796243709473354
+    second: Brandon_Pose 3_25
+  - first:
+      213: 7913332759626303461
+    second: Brandon_Pose 3_26
+  - first:
+      213: -6894241616776425109
+    second: Brandon_Pose 3_27
+  - first:
+      213: 3960018091067739191
+    second: Brandon_Pose 3_28
+  - first:
+      213: -5652827201964836642
+    second: Brandon_Pose 3_29
+  - first:
+      213: -711790693962003526
+    second: Brandon_Pose 3_30
+  - first:
+      213: -8926468201440999694
+    second: Brandon_Pose 3_31
+  - first:
+      213: 6997736115371866122
+    second: Brandon_Pose 3_32
+  - first:
+      213: -183487217869914129
+    second: Brandon_Pose 3_33
+  - first:
+      213: 183895015697135655
+    second: Brandon_Pose 3_34
+  - first:
+      213: 8133635856083061088
+    second: Brandon_Pose 3_35
+  - first:
+      213: -6060619752531059850
+    second: Brandon_Pose 3_36
+  - first:
+      213: 7043937226343686505
+    second: Brandon_Pose 3_37
+  - first:
+      213: -8860103990623666139
+    second: Brandon_Pose 3_38
+  - first:
+      213: -1577016599203017673
+    second: Brandon_Pose 3_39
+  - first:
+      213: 7843958283169032559
+    second: Brandon_Pose 3_40
+  - first:
+      213: 8551342090684858208
+    second: Brandon_Pose 3_41
+  - first:
+      213: -3882700575482595958
+    second: Brandon_Pose 3_42
+  - first:
+      213: 6713486862702270513
+    second: Brandon_Pose 3_43
+  - first:
+      213: 1563137970337951253
+    second: Brandon_Pose 3_44
+  - first:
+      213: 1664726483281182369
+    second: Brandon_Pose 3_45
+  - first:
+      213: 1158487187182788570
+    second: Brandon_Pose 3_46
+  - first:
+      213: 6754277754232750110
+    second: Brandon_Pose 3_47
+  - first:
+      213: 5170577737602354391
+    second: Brandon_Pose 3_48
+  - first:
+      213: -3032832336026765711
+    second: Brandon_Pose 3_49
+  - first:
+      213: 2340661782060268676
+    second: Brandon_Pose 3_50
+  - first:
+      213: 8945092691444403403
+    second: Brandon_Pose 3_51
+  - first:
+      213: 4662018682419146227
+    second: Brandon_Pose 3_52
+  - first:
+      213: -4651215336145170152
+    second: Brandon_Pose 3_53
+  - first:
+      213: 8415382800883231396
+    second: Brandon_Pose 3_54
+  - first:
+      213: 9073737820079762400
+    second: Brandon_Pose 3_55
+  - first:
+      213: -6788854662071412658
+    second: Brandon_Pose 3_56
+  - first:
+      213: -5685967719610220489
+    second: Brandon_Pose 3_57
+  - first:
+      213: -3732276024676270161
+    second: Brandon_Pose 3_58
+  - first:
+      213: -5299376186664001707
+    second: Brandon_Pose 3_59
+  - first:
+      213: -7689300083513783908
+    second: Brandon_Pose 3_60
+  - first:
+      213: 8635313367967021693
+    second: Brandon_Pose 3_61
+  - first:
+      213: 8511980591361843097
+    second: Brandon_Pose 3_62
+  - first:
+      213: 1805548963125435823
+    second: Brandon_Pose 3_63
+  - first:
+      213: 3421146475014809154
+    second: Brandon_Pose 3_64
+  - first:
+      213: -356439369952089406
+    second: Brandon_Pose 3_65
+  - first:
+      213: -4151307917099978283
+    second: Brandon_Pose 3_66
+  - first:
+      213: -7573010348151328270
+    second: Brandon_Pose 3_67
+  - first:
+      213: 1862228226969711846
+    second: Brandon_Pose 3_68
+  - first:
+      213: 1884206231599551783
+    second: Brandon_Pose 3_69
+  - first:
+      213: -762150588386492975
+    second: Brandon_Pose 3_70
+  - first:
+      213: 7052779793327866824
+    second: Brandon_Pose 3_71
+  - first:
+      213: 2844160786693988366
+    second: Brandon_Pose 3_72
+  - first:
+      213: -7605592395188275706
+    second: Brandon_Pose 3_73
+  - first:
+      213: -2720487149636940778
+    second: Brandon_Pose 3_74
+  - first:
+      213: 4722328119192244139
+    second: Brandon_Pose 3_75
+  - first:
+      213: 222625889739506356
+    second: Brandon_Pose 3_76
+  - first:
+      213: -2051026362582797336
+    second: Brandon_Pose 3_77
+  - first:
+      213: 2767772920207225401
+    second: Brandon_Pose 3_78
+  - first:
+      213: 5848918043655696751
+    second: Brandon_Pose 3_79
+  - first:
+      213: -1197311701171382888
+    second: Brandon_Pose 3_80
+  - first:
+      213: 1797151636104541006
+    second: Brandon_Pose 3_81
+  - first:
+      213: -7296930292666693768
+    second: Brandon_Pose 3_82
+  - first:
+      213: -1208046099973601219
+    second: Brandon_Pose 3_83
+  - first:
+      213: 1275694221556227882
+    second: Brandon_Pose 3_84
+  - first:
+      213: 5076709005514344883
+    second: Brandon_Pose 3_85
+  - first:
+      213: 1827481397379761602
+    second: Brandon_Pose 3_86
+  - first:
+      213: 6553074449139956092
+    second: Brandon_Pose 3_87
+  - first:
+      213: 9193434684166948906
+    second: Brandon_Pose 3_88
+  - first:
+      213: -3481824510940106619
+    second: Brandon_Pose 3_89
+  - first:
+      213: 5816290438398160509
+    second: Brandon_Pose 3_90
+  - first:
+      213: -2326870302019691601
+    second: Brandon_Pose 3_91
+  - first:
+      213: -4891424829437024801
+    second: Brandon_Pose 3_92
+  - first:
+      213: -5290204799621144736
+    second: Brandon_Pose 3_93
+  - first:
+      213: -1048412724596694156
+    second: Brandon_Pose 3_94
+  - first:
+      213: -5901620672939197504
+    second: Brandon_Pose 3_95
+  - first:
+      213: 8902201317784233227
+    second: Brandon_Pose 3_96
+  - first:
+      213: -4970097857986357124
+    second: Brandon_Pose 3_97
+  - first:
+      213: -7577371243392605311
+    second: Brandon_Pose 3_98
+  - first:
+      213: 1412564783638148813
+    second: Brandon_Pose 3_99
+  - first:
+      213: 6305620971778512127
+    second: Brandon_Pose 3_100
+  - first:
+      213: 8147411909370080991
+    second: Brandon_Pose 3_101
+  - first:
+      213: 1589703815582407740
+    second: Brandon_Pose 3_102
+  - first:
+      213: -1862601594174494168
+    second: Brandon_Pose 3_103
+  - first:
+      213: -7959803852820326887
+    second: Brandon_Pose 3_104
+  - first:
+      213: 2131732893498739792
+    second: Brandon_Pose 3_105
+  - first:
+      213: -8724258839060481400
+    second: Brandon_Pose 3_106
+  - first:
+      213: 3728630690205766375
+    second: Brandon_Pose 3_107
+  - first:
+      213: 2643757860376336968
+    second: Brandon_Pose 3_108
+  - first:
+      213: -3464892332841617789
+    second: Brandon_Pose 3_109
+  - first:
+      213: -1574073869755231836
+    second: Brandon_Pose 3_110
+  - first:
+      213: -6676034974819433867
+    second: Brandon_Pose 3_111
+  - first:
+      213: 5243095815556440866
+    second: Brandon_Pose 3_112
+  - first:
+      213: 8507304612640783348
+    second: Brandon_Pose 3_113
+  - first:
+      213: 1089321672193644206
+    second: Brandon_Pose 3_114
+  - first:
+      213: 2368142105672661501
+    second: Brandon_Pose 3_115
+  - first:
+      213: -1468631984294366381
+    second: Brandon_Pose 3_116
+  - first:
+      213: 5376086973426069876
+    second: Brandon_Pose 3_117
+  - first:
+      213: 2751022151079542603
+    second: Brandon_Pose 3_118
+  - first:
+      213: -6255641012116632352
+    second: Brandon_Pose 3_119
+  - first:
+      213: 7371922207824126101
+    second: Brandon_Pose 3_120
+  - first:
+      213: -5565107355361080335
+    second: Brandon_Pose 3_121
+  - first:
+      213: -7265380041458143251
+    second: Brandon_Pose 3_122
+  - first:
+      213: 9017879301209840292
+    second: Brandon_Pose 3_123
+  - first:
+      213: 1616634186018068775
+    second: Brandon_Pose 3_124
+  - first:
+      213: -6139672664135774693
+    second: Brandon_Pose 3_125
+  - first:
+      213: -314473578000327915
+    second: Brandon_Pose 3_126
+  - first:
+      213: -6659127219674946145
+    second: Brandon_Pose 3_127
+  - first:
+      213: 6261043733329222525
+    second: Brandon_Pose 3_128
+  - first:
+      213: -2465120534197644734
+    second: Brandon_Pose 3_129
+  - first:
+      213: 2738014259623638121
+    second: Brandon_Pose 3_130
+  - first:
+      213: 934915084391337861
+    second: Brandon_Pose 3_131
+  - first:
+      213: 1542999967091146300
+    second: Brandon_Pose 3_132
+  - first:
+      213: -247587395578058449
+    second: Brandon_Pose 3_133
+  - first:
+      213: 1352609228877078363
+    second: Brandon_Pose 3_134
+  - first:
+      213: -4837375643664514540
+    second: Brandon_Pose 3_135
+  - first:
+      213: 7318788024273530595
+    second: Brandon_Pose 3_136
+  - first:
+      213: -9037514767329747962
+    second: Brandon_Pose 3_137
+  - first:
+      213: 466656171021771942
+    second: Brandon_Pose 3_138
+  - first:
+      213: 2177606444483824975
+    second: Brandon_Pose 3_139
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brandon_Pose 3_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 964
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec471a2afb961a840800000000000000
+      internalID: 5233580513769387214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Pose 3_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 512
+        width: 195
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222aea19cc84daac0800000000000000
+      internalID: -3842334863622495710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Pose 3_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 512
+        width: 168
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d63fb73ae80e60a0800000000000000
+      internalID: -6886556978152261936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Pose 3_3
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 512
+        width: 168
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffda6c90b58ad6860800000000000000
+      internalID: 7524855661365472767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Pose 3_4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 924
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6271f0b5bdbd0c8f0800000000000000
+      internalID: -522175821602941146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Pose 3_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 219
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb40771b67f153920800000000000000
+      internalID: 2969314123964679355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Pose 3_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 412
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3cd6b9453cca800800000000000000
+      internalID: 625089216449987488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Pose 3_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 195
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ea9ad82e37c7430800000000000000
+      internalID: 3782025203960884754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Pose 3_8
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 0
+        width: 168
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9d92a820d53f600800000000000000
+      internalID: 500846249057573333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Pose 3_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 388
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3242165148dde5340800000000000000
+      internalID: 4854561007716082723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Pose 3_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 388
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f229f56de475cb10800000000000000
+      internalID: 2001134172402950898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

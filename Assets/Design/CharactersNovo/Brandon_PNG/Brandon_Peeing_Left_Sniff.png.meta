@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: cd766d155bf8c954db755016f0da8d66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4329647598217663710
+    second: Brandon_Peeing_Left_Sniff_0
+  - first:
+      213: 6164262979811041704
+    second: Brandon_Peeing_Left_Sniff_1
+  - first:
+      213: -4332873621504726560
+    second: Brandon_Peeing_Left_Sniff_2
+  - first:
+      213: 8260305118326776089
+    second: Brandon_Peeing_Left_Sniff_3
+  - first:
+      213: -5325107680225038096
+    second: Brandon_Peeing_Left_Sniff_4
+  - first:
+      213: -4037406155978048739
+    second: Brandon_Peeing_Left_Sniff_5
+  - first:
+      213: -360769810073133454
+    second: Brandon_Peeing_Left_Sniff_6
+  - first:
+      213: 4779711066876175641
+    second: Brandon_Peeing_Left_Sniff_7
+  - first:
+      213: 8755129642766827872
+    second: Brandon_Peeing_Left_Sniff_8
+  - first:
+      213: 7346527664510323780
+    second: Brandon_Peeing_Left_Sniff_9
+  - first:
+      213: -8909711952837436551
+    second: Brandon_Peeing_Left_Sniff_10
+  - first:
+      213: 756838280449088219
+    second: Brandon_Peeing_Left_Sniff_11
+  - first:
+      213: 2307941543165037196
+    second: Brandon_Peeing_Left_Sniff_12
+  - first:
+      213: 451761465924463051
+    second: Brandon_Peeing_Left_Sniff_13
+  - first:
+      213: -3243683017413023845
+    second: Brandon_Peeing_Left_Sniff_14
+  - first:
+      213: -2030249641806794325
+    second: Brandon_Peeing_Left_Sniff_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brandon_Peeing_Left_Sniff_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1536
+        width: 192
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bec99e2700ae3c0800000000000000
+      internalID: -4329647598217663710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Peeing_Left_Sniff_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1536
+        width: 192
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a16abd358cdb8550800000000000000
+      internalID: 6164262979811041704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Peeing_Left_Sniff_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1536
+        width: 192
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9ec85d56a8ed3c0800000000000000
+      internalID: -4332873621504726560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Peeing_Left_Sniff_3
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1536
+        width: 204
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911653a7dbf72a270800000000000000
+      internalID: 8260305118326776089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Peeing_Left_Sniff_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1024
+        width: 204
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f07b7947ca6916b0800000000000000
+      internalID: -5325107680225038096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Peeing_Left_Sniff_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1024
+        width: 204
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bf3f20e7048f7c0800000000000000
+      internalID: -4037406155978048739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Peeing_Left_Sniff_6
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1024
+        width: 208
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ed7e8e4c94efaf0800000000000000
+      internalID: -360769810073133454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Peeing_Left_Sniff_7
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1024
+        width: 208
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915682e24e1f45240800000000000000
+      internalID: 4779711066876175641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Peeing_Left_Sniff_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 512
+        width: 208
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0610c9ff508708970800000000000000
+      internalID: 8755129642766827872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Peeing_Left_Sniff_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 512
+        width: 208
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cc7bfbcfb14f560800000000000000
+      internalID: 7346527664510323780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Peeing_Left_Sniff_10
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 512
+        width: 208
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b92104f285a5480800000000000000
+      internalID: -8909711952837436551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Peeing_Left_Sniff_11
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 512
+        width: 204
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdad59af764d08a00800000000000000
+      internalID: 756838280449088219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Peeing_Left_Sniff_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 204
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a08b20b94770020800000000000000
+      internalID: 2307941543165037196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Peeing_Left_Sniff_13
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 204
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc923a3e8aaf44600800000000000000
+      internalID: 451761465924463051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Peeing_Left_Sniff_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 200
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97212f3b7f1cf2d0800000000000000
+      internalID: -3243683017413023845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brandon_Peeing_Left_Sniff_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 192
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1fdbe15ba13d3e0800000000000000
+      internalID: -2030249641806794325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

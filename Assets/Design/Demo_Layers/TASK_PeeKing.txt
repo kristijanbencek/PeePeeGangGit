@@ -1,0 +1,18 @@
+3 ANIMIRANA LIKA - 2-3 framea, animacija idle / animacija okret glave L/D
+GLAVNI LIK - Front( animiran 3 IDLE-a - sretam / sila mu je / jako mu je sila)
+	   - S leđa (IDLE ANIMACIJA- pee time / HOD 4f loop) 
+           - BAD ENDING - animacija grom ga udari / pepeo ili samo potpuno crn i vide mu se oči
+	   - GOOD ENDING - FRONT animacija - HAPPY THUMBS UP
+PRANJE RUKU - ANIMIRANA SCENA
+DODATI UMIVAONIK - da opereš ruke inače dobivaš bakterije (penalty) ANIMIRANA SCENA
+
+MENU - TIME BAR / PEE BAR
+     - ZOOM BUTTON
+     - PEE BUTTON
+     - ARROWS
+     - SELECTION ARROW
+     - TALK CLOUD
+
+
+BACKGROUND - PISOAR (copy/paste) 
+           - UMIVAONIK
