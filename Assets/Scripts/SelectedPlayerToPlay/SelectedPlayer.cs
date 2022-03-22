@@ -5,13 +5,16 @@ using UnityEngine;
 // Arrows to choose which player is selected to play
 public class SelectedPlayer : MonoBehaviour
 {
+    //Vrati ovo
     public static int selectedPlayer;
 
+    //public static int selectedPlayer = 1;
 
+    // i ovo
     public static int playerCase;
-
-    //Ovo izbrisi kad zavrsis sa playerima
+    
     //public static int playerCase = 1;
+
 
     private void Start()
     {
@@ -34,10 +37,10 @@ public class SelectedPlayer : MonoBehaviour
     {
         playerCase++;
         selectedPlayer++;
-        if (selectedPlayer >= 3 && playerCase >= 3)
+        if (selectedPlayer >= 1 && playerCase >= 1)
         {
-            selectedPlayer = 3;
-            playerCase = 3;
+            selectedPlayer = 1;
+            playerCase = 1;
         }
     }
 }

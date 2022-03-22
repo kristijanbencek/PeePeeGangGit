@@ -30,7 +30,7 @@ public class PissMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        displayScoreText.text = ScoreCount.countScore.ToString();
+        displayScoreText.text = ScoreCount.countScore.ToString("0");
         Movement();
     }
 

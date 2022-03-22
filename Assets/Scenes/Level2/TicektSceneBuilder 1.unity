@@ -162,6 +162,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ScoreObj
       objectReference: {fileID: 0}
+    - target: {fileID: 911115820319136210, guid: 6794c2f0e32ea50418ea70f2e7c6e204, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 911115820319136211, guid: 6794c2f0e32ea50418ea70f2e7c6e204, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -280,6 +284,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6794c2f0e32ea50418ea70f2e7c6e204, type: 3}
+--- !u!1 &151625858 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 911115820319136210, guid: 6794c2f0e32ea50418ea70f2e7c6e204, type: 3}
+  m_PrefabInstance: {fileID: 151625857}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &267174757
 GameObject:
   m_ObjectHideFlags: 0
@@ -508,11 +517,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1089559800}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 07c1f4cc598e6094394cd1b5b826d5b8, type: 3}
+  m_Script: {fileID: 11500000, guid: c1b5cccd3566a9b47aa2820f21677007, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scene: 4
-  score: {fileID: 1350840059}
+  nextScene: 6
+  scoreText: {fileID: 151625858}
 --- !u!4 &1089559802
 Transform:
   m_ObjectHideFlags: 0
@@ -527,11 +536,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1350840059 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 911115820319136210, guid: 6794c2f0e32ea50418ea70f2e7c6e204, type: 3}
-  m_PrefabInstance: {fileID: 151625857}
-  m_PrefabAsset: {fileID: 0}
 --- !u!224 &1350840060 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 911115820319136211, guid: 6794c2f0e32ea50418ea70f2e7c6e204, type: 3}

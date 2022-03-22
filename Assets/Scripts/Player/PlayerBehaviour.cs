@@ -8,7 +8,7 @@ public class PlayerBehaviour : MonoBehaviour
 
     // Acess other scripts
     [Header("Other scripts")]
-    public GoBackButton backScript;
+    //public GoBackButton backScript;
     public PisoarPosition pisoarPos;
     public PeeButton pee;
     //public Timer timer;
@@ -92,18 +92,18 @@ public class PlayerBehaviour : MonoBehaviour
     void PlayerMovement()
     {
         
-        // Mehanic for player go back
-        if (backScript.goBack == true)
-        {
-            pisoarPos.move1 = false;
-            pisoarPos.move2 = false;
-            pisoarPos.move3 = false;
-            pisoarPos.move4 = false;
+        //// Mehanic for player go back
+        //if (backScript.goBack == true)
+        //{
+        //    pisoarPos.move1 = false;
+        //    pisoarPos.move2 = false;
+        //    pisoarPos.move3 = false;
+        //    pisoarPos.move4 = false;
 
-            transform.position = Vector2.MoveTowards(transform.position,
-            new Vector2(xPos0, yPos0), speed * Time.deltaTime);
-            canMove = true;
-        }
+        //    transform.position = Vector2.MoveTowards(transform.position,
+        //    new Vector2(xPos0, yPos0), speed * Time.deltaTime);
+        //    canMove = true;
+        //}
 
         // Mehanic for player go on certain pos
         if (canMove == true)
@@ -186,20 +186,12 @@ public class PlayerBehaviour : MonoBehaviour
             bojoAnim.WalkAnimStop();
             donaldAnim.WalkAnimStop();
             justinPeeAnim.WalkAnimStop();
-
-
-
-            // Time stop if player on pisoar pos
-            //timer.enabled = false;
         }
 
         else if (transform.position.y <= yPosStart)
         {          
             backButton.SetActive(false);
-            backScript.goBack = false;
-
-            // Time start if player on pisoar pos
-            //timer.enabled = true;
+            //backScript.goBack = false;     
 
             // Animations
             brandonAnim.WalkFrontStop();
@@ -229,12 +221,6 @@ public class PlayerBehaviour : MonoBehaviour
             bojoAnim.LookLeftRight();
             donaldAnim.LookLeftRight();
             justinPeeAnim.LookLeftRight();
-        }
-
-        else if (transform.position.y <= yPosStart)
-        {            
-            backButton.SetActive(false);
-            backScript.goBack = false;
         }
     }
 }

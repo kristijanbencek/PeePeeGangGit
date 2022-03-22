@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Level1Builder/Level1WcBuilder.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/MainMenu/TicektSceneBuilder 1.unity
+    path: Assets/Scenes/Level2/TicektSceneBuilder 1.unity
     guid: 2d50c0a718c4bb84a8932d6f9496a7cb
+  - enabled: 1
+    path: Assets/Scenes/Level1Builder/MiniGame.unity
+    guid: c2116fb3ada8f274193459ccbeeba9b5
   m_configObjects: {}
