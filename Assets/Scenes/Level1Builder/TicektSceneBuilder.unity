@@ -515,6 +515,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1b5cccd3566a9b47aa2820f21677007, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nextScene: 4
   scoreText: {fileID: 1350840059}
 --- !u!4 &1089559802
 Transform:
