@@ -59,7 +59,7 @@ public class PlayerBehaviour : MonoBehaviour
         canMove = true;
     }
 
-    private void Update()
+    private void FixedUpdate()
     {
         GameCase();
     }

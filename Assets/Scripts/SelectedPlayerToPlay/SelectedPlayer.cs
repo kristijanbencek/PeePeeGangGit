@@ -6,14 +6,14 @@ using UnityEngine;
 public class SelectedPlayer : MonoBehaviour
 {
     //Vrati ovo
-    public static int selectedPlayer;
+    //public static int selectedPlayer;
 
-    //public static int selectedPlayer = 1;
+    public static int selectedPlayer = 1;
 
     // i ovo
-    public static int playerCase;
+    //public static int playerCase;
     
-    //public static int playerCase = 1;
+    public static int playerCase = 1;
 
 
     private void Start()

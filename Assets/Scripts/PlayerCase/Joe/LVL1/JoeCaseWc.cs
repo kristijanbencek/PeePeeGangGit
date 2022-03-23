@@ -65,10 +65,8 @@ public class JoeCaseWc : MonoBehaviour
         dialogPunk2.SetActive(false);
     }
 
+
     //*******************JoeLvl1WC
-
-
-
     public void JoeDialog()
     {
         peeSound.SetActive(true);

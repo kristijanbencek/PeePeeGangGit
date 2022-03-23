@@ -12,18 +12,18 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu/MainMenu.unity
     guid: 9b559ff918258c34fa3f95c76816a22e
   - enabled: 1
-    path: Assets/Scenes/Level1Builder/Level1BarBuilder.unity
+    path: Assets/Scenes/Level1Builder/Level1BarLVL1.unity
     guid: 2d72595b13b1a5b4eb62181dfcc37198
   - enabled: 1
-    path: Assets/Scenes/Level1Builder/TicektSceneBuilder.unity
+    path: Assets/Scenes/Level1Builder/TicektSceneLVL1_1.unity
     guid: 4bcb0e4901745ab4b875b23c6018da71
   - enabled: 1
-    path: Assets/Scenes/Level1Builder/Level1WcBuilder.unity
+    path: Assets/Scenes/Level1Builder/Level1WcLVL1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Level2/TicektSceneBuilder 1.unity
-    guid: 2d50c0a718c4bb84a8932d6f9496a7cb
-  - enabled: 1
-    path: Assets/Scenes/Level1Builder/MiniGame.unity
+    path: Assets/Scenes/Level1Builder/MiniGameLVL1.unity
     guid: c2116fb3ada8f274193459ccbeeba9b5
+  - enabled: 1
+    path: Assets/Scenes/Level1Builder/TicektSceneLVL1_2.unity
+    guid: 2d50c0a718c4bb84a8932d6f9496a7cb
   m_configObjects: {}

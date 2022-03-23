@@ -10,6 +10,7 @@ public class ResetValues : MonoBehaviour
         Timer.timeLeft = 0;
         TimerBar.timeLeft = 0;
         ScoreCount.countScore = 0;
+        SelectedPlayer.playerCase = 0;
         
     }
 }

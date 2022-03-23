@@ -10,7 +10,7 @@ public class InvokeScoreTicket : MonoBehaviour
     void Start()
     {
         Invoke("ScoreTXTDelay", 0.9f);
-        Invoke("SceneDelay", 2f);
+        Invoke("SceneDelay", 4f);
     }
 
     void ScoreTXTDelay()
