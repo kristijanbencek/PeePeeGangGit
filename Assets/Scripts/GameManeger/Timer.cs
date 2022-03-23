@@ -16,6 +16,7 @@ public class Timer : MonoBehaviour
     // GameObjects
     [Header("GameObjects")]
     public GameObject endPanel;
+    public GameObject drinksToTouch, lights;
     
     
 
@@ -58,7 +59,9 @@ public class Timer : MonoBehaviour
         }      
         else
         {
-            endPanel.SetActive(true);       
+            endPanel.SetActive(true);
+            drinksToTouch.SetActive(false);
+            lights.SetActive(false);
         }
     }
 

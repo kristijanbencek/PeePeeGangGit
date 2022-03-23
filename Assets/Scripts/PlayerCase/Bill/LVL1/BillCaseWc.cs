@@ -6,6 +6,7 @@ public class BillCaseWc : MonoBehaviour
 {
     public GameObject pisoarToTouch;
     public GameObject peeSound;
+    public GameObject timer;
 
     // Punk
     [Header("Dialog 1 Punk")]
@@ -40,6 +41,7 @@ public class BillCaseWc : MonoBehaviour
     }
     void DialogPunk1End()
     {
+        timer.SetActive(true);
         pisoarToTouch.SetActive(true);
         dialogPunk1.SetActive(false);
     }

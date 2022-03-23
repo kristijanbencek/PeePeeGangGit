@@ -12,7 +12,7 @@ public class SelectedPlayer : MonoBehaviour
 
     // i ovo
     //public static int playerCase;
-    
+
     public static int playerCase = 1;
 
 
