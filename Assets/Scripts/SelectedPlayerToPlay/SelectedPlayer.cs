@@ -5,15 +5,10 @@ using UnityEngine;
 // Arrows to choose which player is selected to play
 public class SelectedPlayer : MonoBehaviour
 {
-    //Vrati ovo
+
     public static int selectedPlayer;
 
-    //public static int selectedPlayer = 1;
-
-    // i ovo
     public static int playerCase;
-
-    //public static int playerCase = 1;
 
 
     private void Start()

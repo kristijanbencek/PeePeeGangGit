@@ -20,6 +20,6 @@ public class ClickOnNPC : MonoBehaviour
 
     void CallCurrentScene()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex);
     }
 }

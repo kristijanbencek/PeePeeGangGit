@@ -26,8 +26,7 @@ public class DonaldAnimations : MonoBehaviour
 
     public void WalkFrontStop()
     {
-        anim.SetBool("WalkFront", false);
-        print("Krenuo je");
+        anim.SetBool("WalkFront", false);      
     }
 
     public void LookLeftRight()

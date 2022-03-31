@@ -7,11 +7,10 @@ public class PlayerBehaviour : MonoBehaviour
     public int gameCase;
 
     // Acess other scripts
-    [Header("Other scripts")]
-    //public GoBackButton backScript;
+    [Header("Other scripts")]  
     public PisoarPosition pisoarPos;
     public PeeButton pee;
-    //public Timer timer;
+    
 
     // Acess other scripts
     [Header("Other scripts store animations")]
@@ -27,12 +26,6 @@ public class PlayerBehaviour : MonoBehaviour
 
     [Header("Player speed")]
     public float speed;
-
-
-    // GameObjects
-    [Header("Game Objects")]
-    
-    public GameObject backButton;
 
 
     // Calculate pos for move
@@ -190,9 +183,6 @@ public class PlayerBehaviour : MonoBehaviour
 
         else if (transform.position.y <= yPosStart)
         {          
-            backButton.SetActive(false);
-            //backScript.goBack = false;     
-
             // Animations
             brandonAnim.WalkFrontStop();
             billAnim.WalkFrontStop();

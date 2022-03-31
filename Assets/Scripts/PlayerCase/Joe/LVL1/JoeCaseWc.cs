@@ -57,7 +57,7 @@ public class JoeCaseWc : MonoBehaviour
         timer.SetActive(true);
     }
 
-    // Dialog1
+    // Dialog2
     void DialogPunk2Start()
     {
         dialogPunk2.SetActive(true);

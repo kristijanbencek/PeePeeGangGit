@@ -27,7 +27,6 @@ public class JustinPeeAnimations : MonoBehaviour
     public void WalkFrontStop()
     {
         anim.SetBool("WalkFront", false);
-        print("Krenuo je");
     }
 
     public void LookLeftRight()

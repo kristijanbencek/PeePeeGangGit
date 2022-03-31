@@ -29,4 +29,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level2/BarLVL2.unity
     guid: 9a932ef2a53f20b459608d5dff16c8eb
+  - enabled: 1
+    path: Assets/Scenes/Level2/TicektSceneLVL2_1.unity
+    guid: 8ba4900463e29bd49a9ee1a4b0052123
+  - enabled: 1
+    path: Assets/Scenes/Level2/WcLVL2.unity
+    guid: fbf3bac64bb95e246abaa88e877f96a6
+  - enabled: 1
+    path: Assets/Scenes/Level2/MiniGameLVL2.unity
+    guid: feece68f960f3274c8fa621636fa9cc2
+  - enabled: 1
+    path: Assets/Scenes/Level2/TicektSceneLVL2_2.unity
+    guid: b08c0ed0405c42742800f45755e44c42
   m_configObjects: {}

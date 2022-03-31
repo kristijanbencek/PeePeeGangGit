@@ -48,8 +48,7 @@ public class PeeButton : MonoBehaviour
 
     public void Start()
     {
-        leftPissLiquid = maxPissLiquid;
-        
+        leftPissLiquid = maxPissLiquid;      
     }
 
  
