@@ -11,10 +11,12 @@ public class PlayerScoreCollect : MonoBehaviour
         if (collision.gameObject.tag == "200+")
         {
             ScoreCount.countScore += 200;
+            print("radi");
         }
         if (collision.gameObject.tag == "400+")
         {
             ScoreCount.countScore += 400;
+            print("radi");
         }
     }
   
