@@ -5223,6 +5223,9 @@ MonoBehaviour:
   dialogPunk2Start: 9
   dialogPunk2: {fileID: 139664614}
   dialogPunk2End: 13
+  dialogPunk3Start: 0
+  dialogPunk3: {fileID: 1289991031485911380, guid: e6cbbfb1c850ed741adfa4e132a31286, type: 3}
+  dialogPunk3End: 0
   dialogJoe1Start: 1
   dialogJoe1: {fileID: 1112052032}
   dialogJoe1End: 4
@@ -5763,6 +5766,9 @@ MonoBehaviour:
   dialogPunk1Start: 1
   dialogPunk1: {fileID: 349947101}
   dialogPunk1End: 3
+  dialogPunk2Start: 0
+  dialogPunk2: {fileID: 1289991031485911380, guid: e6cbbfb1c850ed741adfa4e132a31286, type: 3}
+  dialogPunk2End: 0
   dialogBill1Start: 1
   dialogBill1: {fileID: 1579763868}
   dialogBill1End: 8.5
@@ -7290,8 +7296,8 @@ MonoBehaviour:
   timeSlider: {fileID: 369836103}
   maxTime: 10
   endPanel: {fileID: 254096446}
-  drinksToTouch: {fileID: 0}
-  lights: {fileID: 0}
+  drinksToTouch: {fileID: 1289991031485911380, guid: e6cbbfb1c850ed741adfa4e132a31286, type: 3}
+  lights: {fileID: 1289991031485911380, guid: e6cbbfb1c850ed741adfa4e132a31286, type: 3}
   audioSource:
   - {fileID: 0}
   - {fileID: 1521928697}

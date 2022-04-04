@@ -630,7 +630,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 185786493}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.29, y: 10.49, z: 0}
+  m_LocalPosition: {x: 8.29, y: 7.47, z: 0}
   m_LocalScale: {x: 0.1463607, y: 0.1463607, z: 0.1463607}
   m_Children: []
   m_Father: {fileID: 957339342}
@@ -662,7 +662,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 21.36472}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -673,7 +673,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 5.47, y: 2.23}
+  m_Size: {x: 5.47, y: 3.6784592}
   m_EdgeRadius: 0
 --- !u!212 &185786497
 SpriteRenderer:
@@ -2637,7 +2637,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 97f85dd2c56b67043ace5eb0ebc6a898, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scene: 5
+  scene: 10
   peeSlider: {fileID: 637020189}
   maxPissLiquid: 12
   winPanel: {fileID: 1462036757}
@@ -5381,6 +5381,9 @@ MonoBehaviour:
   dialogPunk1Start: 1
   dialogPunk1: {fileID: 349947101}
   dialogPunk1End: 5
+  dialogPunk2Start: 0
+  dialogPunk2: {fileID: 1289991031485911380, guid: e6cbbfb1c850ed741adfa4e132a31286, type: 3}
+  dialogPunk2End: 0
   dialogBill1Start: 1
   dialogBill1: {fileID: 1236478455}
   dialogBill1End: 6
@@ -6759,8 +6762,8 @@ MonoBehaviour:
   timeSlider: {fileID: 369836103}
   maxTime: 10
   endPanel: {fileID: 254096446}
-  drinksToTouch: {fileID: 0}
-  lights: {fileID: 0}
+  drinksToTouch: {fileID: 1289991031485911380, guid: e6cbbfb1c850ed741adfa4e132a31286, type: 3}
+  lights: {fileID: 1289991031485911380, guid: e6cbbfb1c850ed741adfa4e132a31286, type: 3}
   audioSource:
   - {fileID: 0}
   - {fileID: 1521928697}
@@ -7056,7 +7059,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 27.73079}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -7067,7 +7070,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 5.7, y: 2.41}
+  m_Size: {x: 5.7, y: 3.26326}
   m_EdgeRadius: 0
 --- !u!1001 &6813104852574910260
 PrefabInstance:
@@ -7078,7 +7081,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1104482065, guid: f0af8521e9f419047a82ea508f9789b5, type: 3}
       propertyPath: m_Text
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6813104852184313080, guid: f0af8521e9f419047a82ea508f9789b5, type: 3}
       propertyPath: m_Pivot.x
@@ -7199,7 +7202,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6893561872868563841, guid: 99a82f77fdb1ab242b0102682d1256e0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 10.73
+      value: 7.55
       objectReference: {fileID: 0}
     - target: {fileID: 6893561872868563841, guid: 99a82f77fdb1ab242b0102682d1256e0, type: 3}
       propertyPath: m_LocalPosition.z

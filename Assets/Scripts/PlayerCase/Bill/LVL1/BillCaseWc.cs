@@ -14,6 +14,13 @@ public class BillCaseWc : MonoBehaviour
     public GameObject dialogPunk1;
     public float dialogPunk1End;
 
+    // Punk
+    [Header("Dialog 2 Punk")]
+    public float dialogPunk2Start;
+    public GameObject dialogPunk2;
+    public float dialogPunk2End;
+
+
     // Bill
     [Header("Dialog 1 Bill")]
     public float dialogBill1Start;
@@ -46,12 +53,25 @@ public class BillCaseWc : MonoBehaviour
         dialogPunk1.SetActive(false);
     }
 
+    // Dialog2
+    void DialogPunk2Start()
+    {
+        dialogPunk2.SetActive(true);
+    }
+    void DialogPunk2End()
+    {
+        dialogPunk2.SetActive(false);
+    }
+
     //*******************BillLvl1WC
     public void BillDialog()
     {
         peeSound.SetActive(true);
         Invoke("DialogBill1Start", dialogBill1Start);
         Invoke("DialogBill1End", dialogBill1End);
+
+        Invoke("DialogPunk2Start", dialogPunk2Start);
+        Invoke("DialogPunk2End", dialogPunk2End);
 
     }
 

@@ -41,4 +41,49 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level2/TicektSceneLVL2_2.unity
     guid: b08c0ed0405c42742800f45755e44c42
+  - enabled: 1
+    path: Assets/Scenes/Level3/BarLVL3.unity
+    guid: 4d4762871a59f8144b2d2538514a7707
+  - enabled: 1
+    path: Assets/Scenes/Level3/TicektSceneLVL3_1.unity
+    guid: baccd60f94d87da469a728028ade71b9
+  - enabled: 1
+    path: Assets/Scenes/Level3/WcLVL3.unity
+    guid: 4e8aeace43948ac459efa1a3019b3ab3
+  - enabled: 1
+    path: Assets/Scenes/Level3/MiniGameLVL3.unity
+    guid: 179de0e363bf6504a8f7621a2abfa2e8
+  - enabled: 1
+    path: Assets/Scenes/Level3/TicektSceneLVL3_2.unity
+    guid: 9a6f1f22b9a92ba4cb4b84f72f4dbe91
+  - enabled: 1
+    path: Assets/Scenes/Level4/BarLVL4.unity
+    guid: ef1e22ddcd0fb77499373b3e62e179de
+  - enabled: 1
+    path: Assets/Scenes/Level4/TicektSceneLVL4_1.unity
+    guid: 1dd25cc7e49e1804ab7f7803a986d89c
+  - enabled: 1
+    path: Assets/Scenes/Level4/WcLVL4.unity
+    guid: 8a738cad5139154409afedcb1887f367
+  - enabled: 1
+    path: Assets/Scenes/Level4/MiniGameLVL4.unity
+    guid: fc4e2f056e910cb4d99d7b5d3d88b561
+  - enabled: 1
+    path: Assets/Scenes/Level4/TicektSceneLVL4_2.unity
+    guid: 73ec5cb5f7249c642a28f06eb62bc11b
+  - enabled: 1
+    path: Assets/Scenes/Level5/BarLVL5.unity
+    guid: e86ffa955dd73fd4fa95f54a49fc0f80
+  - enabled: 1
+    path: Assets/Scenes/Level5/TicektSceneLVL5_1.unity
+    guid: dd19c306d90380f448685935d4ce7562
+  - enabled: 1
+    path: Assets/Scenes/Level5/WcLVL5.unity
+    guid: 58a1ffb1647e2cb4eafe3ed44b0857c8
+  - enabled: 1
+    path: Assets/Scenes/Level5/MiniGameLVL5.unity
+    guid: a9b7ce2bbe5d28d4fbf7e869d7bb0e28
+  - enabled: 1
+    path: Assets/Scenes/Level5/TicektSceneLVL5_2.unity
+    guid: 894bad9aeba04b642ae8547cc9090559
   m_configObjects: {}

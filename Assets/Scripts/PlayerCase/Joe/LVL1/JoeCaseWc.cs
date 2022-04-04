@@ -20,6 +20,12 @@ public class JoeCaseWc : MonoBehaviour
     public GameObject dialogPunk2;
     public float dialogPunk2End;
 
+    // Punk
+    [Header("Dialog 3 Punk")]
+    public float dialogPunk3Start;
+    public GameObject dialogPunk3;
+    public float dialogPunk3End;
+
     // Joe
     [Header("Dialog 1 Joe")]
     public float dialogJoe1Start;
@@ -67,6 +73,16 @@ public class JoeCaseWc : MonoBehaviour
         dialogPunk2.SetActive(false);
     }
 
+    // Dialog3
+    void DialogPunk3Start()
+    {
+        dialogPunk3.SetActive(true);
+    }
+    void DialogPunk3End()
+    {
+        dialogPunk3.SetActive(false);
+    }
+
 
     //*******************JoeLvl1WC
     public void JoeDialog()
@@ -80,6 +96,9 @@ public class JoeCaseWc : MonoBehaviour
 
         Invoke("DialogPunk2Start", dialogPunk2Start);
         Invoke("DialogPunk2End", dialogPunk2End);
+
+        Invoke("DialogPunk3Start", dialogPunk3Start);
+        Invoke("DialogPunk3End", dialogPunk3End);
     }
 
     void DialogJoe1Start()
