@@ -6,9 +6,9 @@ using UnityEngine;
 public class SelectedPlayer : MonoBehaviour
 {
 
-    public static int selectedPlayer = 2;
+    public static int selectedPlayer;
 
-    public static int playerCase = 2;
+    public static int playerCase;
 
 
     private void Start()
