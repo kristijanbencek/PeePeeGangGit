@@ -20,6 +20,7 @@ TagManager:
   - Joe
   - Bill
   - 400+
+  - Boris
   layers:
   - Default
   - TransparentFX

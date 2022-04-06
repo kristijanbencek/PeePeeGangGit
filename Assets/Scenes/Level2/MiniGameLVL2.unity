@@ -380,7 +380,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e918e8c7b7e13044b4fb39d2f856a51, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  callsceneAfterTime: 20
+  callsceneAfterTime: 30
   scene: 11
   time: {fileID: 421203347}
 --- !u!4 &681824417

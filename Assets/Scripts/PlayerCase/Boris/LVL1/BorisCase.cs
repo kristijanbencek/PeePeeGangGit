@@ -27,10 +27,16 @@ public class BorisCase : MonoBehaviour
     public float dialogBarmen2End;
 
     // Boris
-    [Header("Dialog 2 Boris")]
+    [Header("Dialog 1 Boris")]
     public float dialogBoris1Start;
     public GameObject dialogBoris1;
     public float dialogBoris1End;
+
+    // Boris
+    [Header("Dialog 2 Boris")]
+    public float dialogBoris2Start;
+    public GameObject dialogBoris2;
+    public float dialogBoris2End;
 
     void Start()
     {
@@ -38,6 +44,7 @@ public class BorisCase : MonoBehaviour
         Invoke("DrinkPanelActive", drinkPanelDelay);
 
         BarmenDialog();
+        BorisDialog();
     }
 
     // Wc scene
@@ -46,11 +53,17 @@ public class BorisCase : MonoBehaviour
         moveBar.move1 = true;
     }
 
+    void DrinkPanelActive()
+    {
+        drinkPanel.SetActive(true);
+    }
+
+
     //*******************BarmenLvl1Bar
     void BarmenDialog()
     {
-        Invoke("DialogBarmen1Start", dialogBoris1Start);
-        Invoke("DialogBarmen1End", dialogBoris1End);
+        Invoke("DialogBarmen1Start", dialogBarmen1Start);
+        Invoke("DialogBarmen1End", dialogBarmen1End);
 
         Invoke("DialogBarmen2Start", dialogBarmen2Start);
         Invoke("DialogBarmen2End", dialogBarmen2End);
@@ -76,11 +89,14 @@ public class BorisCase : MonoBehaviour
         dialogBarmen2.SetActive(false);
     }
 
-    //*******************BillLvl1Bar
-    void BillDialog()
+    //*******************BorisLvl1Bar
+    void BorisDialog()
     {
         Invoke("DialogBoris1Start", dialogBoris1Start);
         Invoke("DialogBoris1End", dialogBoris1End);
+
+        Invoke("DialogBoris2Start", dialogBoris2Start);
+        Invoke("DialogBoris2End", dialogBoris2End);
 
     }
 
@@ -92,5 +108,15 @@ public class BorisCase : MonoBehaviour
     void DialogBoris1End()
     {
         dialogBoris1.SetActive(false);
+    }
+
+    // Dialog2
+    void DialogBoris2Start()
+    {
+        dialogBoris2.SetActive(true);
+    }
+    void DialogBoris2End()
+    {
+        dialogBoris2.SetActive(false);
     }
 }

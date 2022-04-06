@@ -32,10 +32,10 @@ public class SelectedPlayer : MonoBehaviour
     {
         playerCase++;
         selectedPlayer++;
-        if (selectedPlayer >= 1 && playerCase >= 1)
+        if (selectedPlayer >= 2 && playerCase >= 2)
         {
-            selectedPlayer = 1;
-            playerCase = 1;
+            selectedPlayer = 2;
+            playerCase = 2;
         }
     }
 }

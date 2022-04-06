@@ -6,6 +6,7 @@ public class Lvl1Wc : MonoBehaviour
 {
     public JoeCaseWc joeCase;
     public BillCaseWc billCase;
+    public BorisCaseWc borisCase;
 
 
     public GameObject timer;
@@ -22,6 +23,11 @@ public class Lvl1Wc : MonoBehaviour
         {
             timer.SetActive(false);
             billCase.BillDialog();
+        }
+        if (collision.gameObject.tag == "Boris")
+        {
+            timer.SetActive(false);
+            borisCase.BorisDialog();
         }
     }
 }

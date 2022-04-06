@@ -15,9 +15,6 @@ public class PlayWithPlayer : MonoBehaviour
     {
 
         selectedPlayerToPlay = SelectedPlayer.selectedPlayer;
-
-        //Ovo izbrisi kad zavrsis sa playerima
-        //selectedPlayerToPlay = 1;
     }
 
     private void Update()
