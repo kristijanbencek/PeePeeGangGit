@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerCase : MonoBehaviour
 {
-    public GameObject joeCase, billCase, borisCase;
+    public GameObject joeCase, billCase, borisCase, donaldCase;
 
     private void Update()
     {
@@ -24,6 +24,9 @@ public class PlayerCase : MonoBehaviour
 
             case 2:
                 borisCase.SetActive(true);
+                break;
+            case 3:
+                donaldCase.SetActive(true);
                 break;
         }
     }

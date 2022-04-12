@@ -88,9 +88,9 @@ public class PlayerChoose : MonoBehaviour
     public void RightArrow()
     {
         selectedPlayer++;
-        if (selectedPlayer >= 2)
+        if (selectedPlayer >= 3)
         {
-            selectedPlayer = 2;
+            selectedPlayer = 3;
         }
     }
 

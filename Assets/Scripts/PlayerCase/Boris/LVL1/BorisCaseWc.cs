@@ -21,7 +21,7 @@ public class BorisCaseWc : MonoBehaviour
     public float dialogPunk2End;
 
 
-    // Bill
+    // Boris
     [Header("Dialog 1 Boris")]
     public float dialogBoris1Start;
     public GameObject dialogBoris1;

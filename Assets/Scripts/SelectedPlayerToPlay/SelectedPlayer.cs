@@ -6,9 +6,9 @@ using UnityEngine;
 public class SelectedPlayer : MonoBehaviour
 {
 
-    public static int selectedPlayer;
+    public static int selectedPlayer = 3;
 
-    public static int playerCase;
+    public static int playerCase = 3;
 
 
     private void Start()
@@ -32,10 +32,10 @@ public class SelectedPlayer : MonoBehaviour
     {
         playerCase++;
         selectedPlayer++;
-        if (selectedPlayer >= 2 && playerCase >= 2)
+        if (selectedPlayer >= 3 && playerCase >= 3)
         {
-            selectedPlayer = 2;
-            playerCase = 2;
+            selectedPlayer = 3;
+            playerCase = 3;
         }
     }
 }

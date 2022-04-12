@@ -14,6 +14,12 @@ public class JoeCaseWc2 : MonoBehaviour
     public GameObject dialogPunk1;
     public float dialogPunk1End;
 
+    // Punk
+    [Header("Dialog 2 Punk")]
+    public float dialogPunk2Start;
+    public GameObject dialogPunk2;
+    public float dialogPunk2End;
+
     // Joe
     [Header("Dialog 1 Joe")]
     public float dialogJoe1Start;
