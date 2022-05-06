@@ -1181,14 +1181,14 @@ MonoBehaviour:
   moveBar: {fileID: 724541880}
   drinkPanel: {fileID: 21458968}
   moveDelay: 1
-  drinkPanelDelay: 18.5
+  drinkPanelDelay: 19
   dialogBarmen1Start: 2
   dialogBarmen1: {fileID: 483030285}
-  dialogBarmen1End: 5
+  dialogBarmen1End: 6
   dialogBarmen2Start: 0
   dialogBarmen2: {fileID: 1289991031485911380, guid: e6cbbfb1c850ed741adfa4e132a31286, type: 3}
   dialogBarmen2End: 0
-  dialogBill1Start: 6
+  dialogBill1Start: 6.5
   dialogBill1: {fileID: 2083515330}
   dialogBill1End: 20
   dialogBill2Start: 0
@@ -2954,7 +2954,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 33ffeea6ac17df64e9546ab3c70d0ea1, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -3254,6 +3254,108 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1001 &510395432
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1889848701}
+    m_Modifications:
+    - target: {fileID: 3047766977733427909, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_Name
+      value: Pause
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_Pivot.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 486.40002
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -86
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+--- !u!224 &510395433 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 3047766977733427910, guid: 0c564947edf9c004db46bb6f5958591a, type: 3}
+  m_PrefabInstance: {fileID: 510395432}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &514160115
 GameObject:
   m_ObjectHideFlags: 0
@@ -7749,6 +7851,7 @@ RectTransform:
   - {fileID: 254096447}
   - {fileID: 1462036758}
   - {fileID: 21458969}
+  - {fileID: 510395433}
   m_Father: {fileID: 523757992}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -7989,16 +8092,16 @@ MonoBehaviour:
   drinkPanelDelay: 15
   dialogBarmen1Start: 2
   dialogBarmen1: {fileID: 2059364213}
-  dialogBarmen1End: 5
+  dialogBarmen1End: 6
   dialogBarmen2Start: 0
   dialogBarmen2: {fileID: 1289991031485911380, guid: e6cbbfb1c850ed741adfa4e132a31286, type: 3}
   dialogBarmen2End: 0
   dialogBarmen3Start: 0
   dialogBarmen3: {fileID: 1289991031485911380, guid: e6cbbfb1c850ed741adfa4e132a31286, type: 3}
   dialogBarmen3End: 0
-  dialogJoe1Start: 5
+  dialogJoe1Start: 6.5
   dialogJoe1: {fileID: 1753986514}
-  dialogJoe1End: 14
+  dialogJoe1End: 15
   dialogJoe2Start: 0
   dialogJoe2: {fileID: 1289991031485911380, guid: e6cbbfb1c850ed741adfa4e132a31286, type: 3}
   dialogJoe2End: 0
@@ -8080,7 +8183,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: cf779c13b550f934c89696a4992898e5, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -8692,7 +8795,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 045aa84cc7bbaf54bb58eb35a2352648, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -10291,7 +10394,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 3f7fea25035e5d24eb20099270c43fd1, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
